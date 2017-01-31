@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-ui5-features",
+        "command": "atom-ui5-features:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-ui5-features",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-ui5-features:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

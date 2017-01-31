@@ -1,0 +1,18 @@
+{
+  "name": "atom-ui5-features",
+  "main": "./lib/atom-ui5-features",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-ui5-features:toggle"
+  },
+  "repository": "https://github.com/atom/atom-ui5-features",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
