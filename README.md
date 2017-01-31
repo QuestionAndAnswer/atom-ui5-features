@@ -1,5 +1,5 @@
 # atom-ui5-features package
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+This package contains set of tools, instruments and hot keys that developers of
+the UI5 applications using frequently. So this package will enchance performance
+of the UI5 developers and makes theirs live a little easier.

@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-ui5-features",
-        "command": "atom-ui5-features:toggle"
+        "label": "Extract to i18n",
+        "command": "atom-ui5-features:extractToI18n"
       }
     ]
   },
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-ui5-features",
+          "label": "UI5 Features",
           "submenu": [
             {
               "label": "Toggle",
