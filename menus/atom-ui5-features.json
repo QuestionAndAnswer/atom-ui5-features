@@ -1,26 +1,7 @@
 {
   "context-menu": {
     "atom-text-editor": [
-      {
-        "label": "Extract to i18n",
-        "command": "atom-ui5-features:extractToI18n"
-      }
+      { "label": "Extract to i18n", "command": "atom-ui5-features:openExtractToI18nDialog" }
     ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "UI5 Features",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "atom-ui5-features:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }

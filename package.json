@@ -5,7 +5,7 @@
   "description": "Set of tools and hot keys to make development of the UI5 applications easier",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "atom-ui5-features:toggle"
+    "atom-text-editor": "atom-ui5-features:openExtractToI18nDialog"
   },
   "repository": "https://github.com/QuestionAndAnswer/atom-ui5-features",
   "license": "MIT",
