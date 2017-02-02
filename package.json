@@ -5,7 +5,6 @@
   "description": "Set of tools and hot keys to make development of the UI5 applications easier",
   "keywords": [],
   "activationCommands": {
-    "atom-text-editor": "atom-ui5-features:openExtractToI18nDialog",
 	"atom-text-editor": "atom-ui5-features:findOnExplored",
 	"atom-text-editor": "atom-ui5-features:findOnHana"
   },

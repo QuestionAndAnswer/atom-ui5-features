@@ -8,9 +8,6 @@
             }, {
                 "label": "Find On Hana",
                 "command": "atom-ui5-features:findOnHana"
-            }, {
-                "label": "Extract to i18n",
-                "command": "atom-ui5-features:openExtractToI18nDialog"
             }]
         }]
     },
