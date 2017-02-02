@@ -6,7 +6,7 @@
                 "label": "Find On Explored",
                 "command": "atom-ui5-features:findOnExplored"
             }, {
-                "label": "Find On Hana",
+                "label": "Find On HANA",
                 "command": "atom-ui5-features:findOnHana"
             }]
         }]

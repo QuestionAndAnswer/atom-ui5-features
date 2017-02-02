@@ -2,8 +2,13 @@
   "name": "atom-ui5-features",
   "main": "./lib/atom-ui5-features",
   "version": "0.0.0",
-  "description": "Set of tools and hot keys to make development of the UI5 applications easier",
-  "keywords": [],
+  "description": "Set of tools and to make development of the UI5 applications easier",
+  "keywords": ["ui5", "sapui5", "openui5", "sap"],
+  "author": {
+    "name": "Artsiom Miksiuk",
+    "email": "forbiddentool@gmail.com",
+    "url": "https://github.com/QuestionAndAnswer"
+  },
   "activationCommands": {
 	"atom-text-editor": "atom-ui5-features:findOnExplored",
 	"atom-text-editor": "atom-ui5-features:findOnHana"
