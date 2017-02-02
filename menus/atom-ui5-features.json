@@ -1,7 +1,33 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      { "label": "Extract to i18n", "command": "atom-ui5-features:openExtractToI18nDialog" }
-    ]
-  }
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "UI5",
+            "submenu": [{
+                "label": "Find On Explored",
+                "command": "atom-ui5-features:findOnExplored"
+            }, {
+                "label": "Find On Hana",
+                "command": "atom-ui5-features:findOnHana"
+            }, {
+                "label": "Extract to i18n",
+                "command": "atom-ui5-features:openExtractToI18nDialog"
+            }]
+        }]
+    },
+    "menu": [
+		{
+        	"label": "Packages",
+        	"submenu": [
+				{
+	            	"label": "UI5",
+	            	"submenu": [
+						{
+	                		"label": "Find On Explored",
+	                		"command": "atom-ui5-features:findOnExplored"
+	            		}
+					]
+				}
+        	]
+    	}
+	]
 }

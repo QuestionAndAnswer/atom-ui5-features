@@ -1,5 +1,6 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "atom-ui5-features:toggle"
+  "atom-text-editor": {
+    "alt-shift-H": "atom-ui5-features:findOnHana",
+	"alt-shift-E": "atom-ui5-features:findOnExplored"
   }
 }
