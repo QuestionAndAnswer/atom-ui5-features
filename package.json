@@ -1,30 +1,32 @@
 {
-  "name": "atom-ui5-features",
-  "main": "./lib/atom-ui5-features",
-  "version": "0.0.0",
-  "description": "Set of tools and to make development of the UI5 applications easier",
-  "keywords": ["ui5", "sapui5", "openui5", "sap"],
-  "author": {
-    "name": "Artsiom Miksiuk",
-    "email": "forbiddentool@gmail.com",
-    "url": "https://github.com/QuestionAndAnswer"
-  },
-  "activationCommands": {
-	"atom-text-editor": "atom-ui5-features:findOnExplored",
-	"atom-text-editor": "atom-ui5-features:findOnHana"
-  },
-  "repository": "https://github.com/QuestionAndAnswer/atom-ui5-features",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-    "find": "^0.2.7"
-  },
-  "devDependencies": {
-    "eslint": "^3.14.1",
-    "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-jsx-a11y": "^3.0.2",
-    "eslint-plugin-react": "^6.9.0"
-  }
+    "name": "atom-ui5-features",
+    "main": "./lib/atom-ui5-features",
+    "version": "0.0.0",
+    "description": "Set of tools and to make development of the UI5 applications easier",
+    "keywords": ["ui5", "sapui5", "openui5", "sap"],
+    "author": {
+        "name": "Artsiom Miksiuk",
+        "email": "forbiddentool@gmail.com",
+        "url": "https://github.com/QuestionAndAnswer"
+    },
+    "activationCommands": {
+        "atom-text-editor": [
+            "atom-ui5-features:findOnExplored",
+            "atom-ui5-features:findOnHana"
+        ]
+    },
+    "repository": "https://github.com/QuestionAndAnswer/atom-ui5-features",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
+        "find": "^0.2.7"
+    },
+    "devDependencies": {
+        "eslint": "^3.14.1",
+        "eslint-plugin-import": "^2.2.0",
+        "eslint-plugin-jsx-a11y": "^3.0.2",
+        "eslint-plugin-react": "^6.9.0"
+    }
 }
