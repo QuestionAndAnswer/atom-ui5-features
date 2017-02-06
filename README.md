@@ -4,6 +4,11 @@ This package contains set of tools and instruments that developers of
 the UI5 applications using frequently. So this package will enchance performance
 of the UI5 developers and makes theirs live a little easier.
 
+### Under Development
+1. Extract to i18n. In the way like it implemented in webIDE.
+2. Mockdata generator. But it might be implemented in another plugin.
+3... 
+
 ### Installation
 
 Can be installed through Atom.
