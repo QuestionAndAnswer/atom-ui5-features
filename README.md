@@ -7,7 +7,7 @@ of the UI5 developers and makes theirs live a little easier.
 ### Under Development
 1. Open in i18n.
 2. Mockdata generator. But it might be implemented in another plugin.
-3...
+3. ...
 
 ### Installation
 
