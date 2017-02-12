@@ -17,7 +17,8 @@
   "activationCommands": {
     "atom-text-editor": [
       "atom-ui5-features:findOnExplored",
-      "atom-ui5-features:findOnHana"
+      "atom-ui5-features:findOnHana",
+	  "atom-ui5-features:openExtractToI18nDialog"
     ]
   },
   "repository": "https://github.com/QuestionAndAnswer/atom-ui5-features",

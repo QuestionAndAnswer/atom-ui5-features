@@ -8,7 +8,11 @@
             }, {
                 "label": "Find On HANA",
                 "command": "atom-ui5-features:findOnHana"
-            }]
+            },
+			{
+				"label": "Create i18n string",
+				"command": "atom-ui5-features:openExtractToI18nDialog"
+			}]
         }]
     },
     "menu": [

@@ -1,6 +1,7 @@
 {
   "atom-text-editor": {
     "alt-shift-H": "atom-ui5-features:findOnHana",
-	"alt-shift-E": "atom-ui5-features:findOnExplored"
+	"alt-shift-E": "atom-ui5-features:findOnExplored",
+	"alt-shift-I": "atom-ui5-features:openExtractToI18nDialog"
   }
 }

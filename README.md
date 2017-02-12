@@ -5,9 +5,9 @@ the UI5 applications using frequently. So this package will enchance performance
 of the UI5 developers and makes theirs live a little easier.
 
 ### Under Development
-1. Extract to i18n. In the way like it implemented in webIDE.
+1. Open in i18n.
 2. Mockdata generator. But it might be implemented in another plugin.
-3... 
+3...
 
 ### Installation
 
@@ -24,6 +24,13 @@ and menu into Packages group of the main menu on the top of the Atom.
 ##### Search on hana and explored
 Select some text and use a hot key or context menu comand.
 This commands will open browser window with appropriate opened web resources.
+
+##### Create i18n string
+Simplifies i18n strings creation in the same way as it has been implemented in WebIDE.
+Select some text, use hot key or option from context menu to create i18n string.
+Creation dialog will appear. Populate all fields and press ok.
+Original selection will be replaced by i18n binding string and new i18n record will be
+inserted into appropriate i18n file.
 
 ### Settings
 There are no settings yet
