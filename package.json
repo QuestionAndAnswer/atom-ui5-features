@@ -1,7 +1,7 @@
 {
   "name": "atom-ui5-features",
   "main": "./lib/atom-ui5-features",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Set of tools and to make development of the UI5 applications easier",
   "keywords": [
     "ui5",
