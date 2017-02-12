@@ -1,7 +1,7 @@
 {
   "name": "atom-ui5-features",
   "main": "./lib/atom-ui5-features",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Set of tools and to make development of the UI5 applications easier",
   "keywords": [
     "ui5",
@@ -18,7 +18,7 @@
     "atom-text-editor": [
       "atom-ui5-features:findOnExplored",
       "atom-ui5-features:findOnHana",
-	  "atom-ui5-features:openExtractToI18nDialog"
+      "atom-ui5-features:openExtractToI18nDialog"
     ]
   },
   "repository": "https://github.com/QuestionAndAnswer/atom-ui5-features",
