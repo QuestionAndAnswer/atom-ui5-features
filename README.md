@@ -21,11 +21,11 @@ and menu into Packages group of the main menu on the top of the Atom.
 
 ### Features
 
-##### Search on hana and explored
+#### Search on hana and explored
 Select some text and use a hot key or context menu comand.
 This commands will open browser window with appropriate opened web resources.
 
-##### Create i18n string
+#### Create i18n string
 Simplifies i18n strings creation in the same way as it has been implemented in WebIDE.
 Select some text, use hot key or option from context menu to create i18n string.
 Creation dialog will appear. Populate all fields and press ok.
